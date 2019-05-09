@@ -1,0 +1,17 @@
+c:\users\hawam\source\repos\color-detector\color-detector\bin\Debug\color-detector.exe.config
+c:\users\hawam\source\repos\color-detector\color-detector\bin\Debug\color-detector.exe
+c:\users\hawam\source\repos\color-detector\color-detector\bin\Debug\color-detector.pdb
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.csprojAssemblyReference.cache
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color_detector.Properties.Resources.resources
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.csproj.GenerateResource.cache
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.csproj.CoreCompileInputs.cache
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.exe
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.pdb
+c:\users\hawam\source\repos\color-detector\color-detector\obj\Debug\colordetector.HiddenForm.resources
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.dll
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.Imaging.dll
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.Math.dll
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.xml
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.Imaging.xml
+C:\Users\hawam\source\repos\color-detector\color-detector\bin\Debug\AForge.Math.xml
+C:\Users\hawam\source\repos\color-detector\color-detector\obj\Debug\color-detector.csproj.CopyComplete
