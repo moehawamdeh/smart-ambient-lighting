@@ -14,7 +14,7 @@ As a part of Hajjawi’s Smart E-Learning Room Project
 
 * [System Objectives](#System-Objectives)
 
-* [System Overview]
+* [System Overview](#System-Overview)
  * System Block Diagram
  * Hall’s Computer Behaviour
  * Raspberry Pi Behaviour
@@ -54,18 +54,12 @@ Accomplishing task without engaging sensors while getting more accurate results 
 
 Being able to use colours consciously and harmoniously helps to attract attention, make a statement or even setting the mood and the tone of the audience.
 
-	
-
-
-
-
-
 
 ## System Overview
 
 -	System Block Diagram
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Block Diagram](https://raw.githubusercontent.com/moehawamdeh/smart-ambient-lighting/master/docs/ref-img/block%20diagram.jpg)
 
 -	Hall’s Computer Behaviour
 
@@ -94,7 +88,7 @@ The module is used as server, it receives the request and if it pass the conditi
 -	Colour Detecting Application
 
 The application is built using Visual Studio 2018 as a Windows Form Application, no visual GUI is displayed on screen to avoid appearing in the screenshot, but the application itself is always minimized to system tray which provides a way to control the application without the need of GUI as shown below.
-![tray](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![tray](https://raw.githubusercontent.com/moehawamdeh/smart-ambient-lighting/master/docs/ref-img/sys-tray.jpg)
 
 
 Windows is expected to be the operating system of the device controlling the colours in order to run the C# Windows Forms Application. Support for other systems should be considered as a future goal.
@@ -113,7 +107,10 @@ To ensure the computability with different devices, the captured image width and
 Captured images can include many colour degrees. AForge.NET, a framework designed for developers in the fields of computer vision and AI is used to perform a posterization filter.
 
 Posterization filters are used for the conversion of a continuous gradation of tone to several regions of fewer tones as shown below.
+
+
 ![posterization snake](https://raw.githubusercontent.com/moehawamdeh/smart-ambient-lighting/master/docs/ref-img/snake.jpg)
+
 The filter is applied to approximating colour ratios of adjacent pixels.
 
 
