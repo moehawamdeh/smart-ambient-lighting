@@ -3,7 +3,6 @@
 16 April 2018
 
 Yarmouk University
-
 Submitted by: Mohammed Hawamdeh
 As a part of Hajjawi’s Smart E-Learning Room Project
 
@@ -11,29 +10,29 @@ As a part of Hajjawi’s Smart E-Learning Room Project
 
 ## Contents
 
-[Introduction](#Introduction)
+* [Introduction](#Introduction)
 
-[System Objectives](#System-Objectives) ………………………………………………………………………...… 3
+* [System Objectives](#System-Objectives)
 
-System Overview
-System Block Diagram…………………………………………………………………..…… 4
-Hall’s Computer Behaviour…………………………………………………………….….… 5
-Raspberry Pi Behaviour………………………………………………………………...……. 5
+* [System Overview]
+ * System Block Diagram
+ * Hall’s Computer Behaviour
+ * Raspberry Pi Behaviour
 
-Software System
-Colour Detecting Application…………………………………………………….……..…… 6
-Screen Capture…………………………………………...……………………….……..…… 6
-Major Colour Detecting…………………………………………………….……..……….… 7
-Server-Side Operations…………………………………………………….……...……….… 7
-Philips Hue API…………………………………………………………….……..……….… 8
+* [Software System](#Software-System)
+ * Colour Detecting Application
+ * Screen Capture
+ * Major Colour Detecting
+ * Server-Side Operations
+ * Philips Hue API
 
-Hardware Tools …………………………………………………..……….……..……….… 8
-Raspberry pi 3 module B
-Philips Hue Colour Ambiance Smart Bulb.
-Philips Hue Smart Bridge
-Alternatives …………………………………………………………………………………..9
+* [Hardware Tools](#Hardware-Tools)
+ * Raspberry pi 3 module B
+ * Philips Hue Colour Ambiance Smart Bulb.
+ * Philips Hue Smart Bridge
+ * Alternatives
 
-Conclusion  …………………………………………………..……….……..……..…….… 9
+* Conclusion
 
 
 
@@ -114,7 +113,7 @@ To ensure the computability with different devices, the captured image width and
 Captured images can include many colour degrees. AForge.NET, a framework designed for developers in the fields of computer vision and AI is used to perform a posterization filter.
 
 Posterization filters are used for the conversion of a continuous gradation of tone to several regions of fewer tones as shown below.
-![posterization snake](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![posterization snake](https://raw.githubusercontent.com/moehawamdeh/smart-ambient-lighting/master/docs/ref-img/snake.jpg)
 The filter is applied to approximating colour ratios of adjacent pixels.
 
 
