@@ -15,22 +15,22 @@ As a part of Hajjawi’s Smart E-Learning Room Project
 * [System Objectives](#System-Objectives)
 
 * [System Overview](#System-Overview)
- * System Block Diagram
- * Hall’s Computer Behaviour
- * Raspberry Pi Behaviour
+  * System Block Diagram
+  * Hall’s Computer Behaviour
+  * Raspberry Pi Behaviour
 
 * [Software System](#Software-System)
- * Colour Detecting Application
- * Screen Capture
- * Major Colour Detecting
- * Server-Side Operations
- * Philips Hue API
+  * Colour Detecting Application
+  * Screen Capture
+  * Major Colour Detecting
+  * Server-Side Operations
+  * Philips Hue API
 
 * [Hardware Tools](#Hardware-Tools)
- * Raspberry pi 3 module B
- * Philips Hue Colour Ambiance Smart Bulb.
- * Philips Hue Smart Bridge
- * Alternatives
+  * Raspberry pi 3 module B
+  * Philips Hue Colour Ambiance Smart Bulb.
+  * Philips Hue Smart Bridge
+  * Alternatives
 
 * Conclusion
 
