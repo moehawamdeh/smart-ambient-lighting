@@ -1,4 +1,4 @@
-Colour Detection Based Lighting Control System
+#Colour Detection Based Lighting Control System
 
 16 April 2018
 
@@ -9,11 +9,11 @@ As a part of Hajjawi’s Smart E-Learning Room Project
 
 
 
-### Contents
+## Contents
 
 [Introduction](#Introduction)
 
-System Objectives ………………………………………………………………………...… 3
+[System Objectives](#System Objectives) ………………………………………………………………………...… 3
 
 System Overview
 System Block Diagram…………………………………………………………………..…… 4
@@ -39,13 +39,13 @@ Conclusion  …………………………………………………..………
 
 
 
-# Introduction
+## Introduction
 
 This report documents the work and progress of Lighting Control Team regarding enhancing guest’s picture experience using colour detection system. This system is proposed to be implemented in Hajjawi’s Smart E-learning Room project.
 
 
 
-System Objectives
+## System Objectives
 
 -	Less hardware.
 
@@ -62,7 +62,7 @@ Being able to use colours consciously and harmoniously helps to attract attentio
 
 
 
-System Overview
+## System Overview
 
 -	System Block Diagram
 
@@ -89,7 +89,7 @@ The module is used as server, it receives the request and if it pass the conditi
 
 
 
-Software System
+## Software System
 
 
 -	Colour Detecting Application
@@ -149,7 +149,7 @@ Philips Hue can be controlled or integrated with various applications using API.
 RGB values must be converted to TSL form in order to be processed at the bridge API.
 
 
-Hardware Tools
+## Hardware Tools
 
 
 -	Raspberry Pi 3 module B.
@@ -165,11 +165,11 @@ Hardware Tools
 
 
 
-Alternatives
+## Alternatives
 
 Instead of processing images to fetch dominant colours at the Hall’s computer, If the main controller unit for the system (Raspberry Pi) have law load and enough processing power, an alternative would be receiving either live camera photos or screenshots from the main computer periodically. An advantage of such change of responsibilities provides additional layer of security as the controller is more out of hand than the hall’s computer.  
 
 
-Conclusion
+## Conclusion
 
 To be determined.
