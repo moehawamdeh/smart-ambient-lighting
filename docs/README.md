@@ -13,7 +13,7 @@ As a part of Hajjawi’s Smart E-Learning Room Project
 
 [Introduction](#Introduction)
 
-[System Objectives](#System Objectives) ………………………………………………………………………...… 3
+[System Objectives](#System-Objectives) ………………………………………………………………………...… 3
 
 System Overview
 System Block Diagram…………………………………………………………………..…… 4
