@@ -1,32 +1,17 @@
-Brief Progress Report
-
-
-
 Colour Detection Based Lighting Control System
 
 16 April 2018
 
 Yarmouk University
 
-
 Submitted by: Mohammed Hawamdeh
-
 As a part of Hajjawi’s Smart E-Learning Room Project
 
 
 
+### Contents
 
-
-
-
-
-
-
-
-
-Contents
-
-Introduction…………………………………………………………………………………. 3
+[Introduction](#Introduction)
 
 System Objectives ………………………………………………………………………...… 3
 
@@ -54,7 +39,7 @@ Conclusion  …………………………………………………..………
 
 
 
-Introduction
+# Introduction
 
 This report documents the work and progress of Lighting Control Team regarding enhancing guest’s picture experience using colour detection system. This system is proposed to be implemented in Hajjawi’s Smart E-learning Room project.
 
